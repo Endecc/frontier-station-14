@@ -112,7 +112,6 @@ guide-entry-shipyard-spirit = Spirit
 guide-entry-shipyard-stasis = Stasis
 guide-entry-shipyard-tyne = Tyne
 guide-entry-shipyard-vitalis = Vitalis
-guide-entry-shipyard-voltage = Voltage
 
 # Frontier Staff Shipyard entries
 guide-entry-shipyard-broom = Broom
@@ -148,6 +147,10 @@ guide-entry-shipyard-prowler = Prowler
 guide-entry-shipyard-rogue = Rogue
 guide-entry-shipyard-templar = Templar
 guide-entry-shipyard-wasp = Wasp
+
+# Blackmarket Shipyard entries
+guide-entry-shipyard-triage = Triage
+guide-entry-shipyard-voltage = Voltage
 
 # Rules entries
 guide-entry-frontier-rule-zero-tolerance = Zero Tolerance
